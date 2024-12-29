@@ -36,6 +36,11 @@ Vector3.MoveTowards calculates the position between the two points we have speci
 
    ![image](https://github.com/user-attachments/assets/2df18cf3-e5a6-4e49-a3d5-47c1658daacc)
 
+10. Give your enemy a rigidbody so that a force of gravity is applied to it and playtest the script, tweaking the speed to your liking.
+
+    ![image](https://github.com/user-attachments/assets/ab95230f-fba1-4e61-975d-8fd52cfe9355)
+
+
 
 
 
